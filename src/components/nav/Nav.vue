@@ -30,6 +30,7 @@
 </script>
 
 <style scoped>
+
   .nav {
     display: flex;
     width: 100%;
